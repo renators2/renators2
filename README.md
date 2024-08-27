@@ -1,5 +1,6 @@
-Olá mundo! Eu sou Renato, um estudante de Análise e Desenvolvimento de Sistemas. 👋
-Contatos:
+## Olá mundo! Eu sou Renato, um estudante de Análise e Desenvolvimento de Sistemas. 👋
+### Contatos:
+
 [![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renators2k/)
 [![contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/renatosilvars/)
