@@ -47,8 +47,5 @@ Ferramentas
 🩺 Produto com LLM para apoio a profissionais de saúde
 📚 Aprofundando em engenharia de IA aplicada
 📌 Projetos em destaque
-Projeto	O que faz	Stack
-nome-do-projeto	Descreva em uma linha	Python · Docker
-nome-do-projeto	Descreva em uma linha	React · FastAPI
-nome-do-projeto	Descreva em uma linha	LLM · Qdrant
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=110&section=footer" />
