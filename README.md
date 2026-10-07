@@ -1,20 +1,5 @@
-## Olá mundo! Eu sou Renato, um estudante de Análise e Desenvolvimento de Sistemas. 👋
-### Contatos:
+<!-- Banner --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=190&section=header&text=Renato%20Silva&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Produto%20%C2%B7%20Engenharia%20de%20IA%20Aplicada&descAlignY=58&descSize=17" /> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Da+ideia+ao+MVP+em+produ%C3%A7%C3%A3o+%F0%9F%9A%80;Desenvolvedor+Full+Stack;Agentes+e+produtos+com+IA+aplicada;Deploy+do+zero%3A+VPS+%E2%86%92+Docker+%E2%86%92+Nginx+%E2%86%92+Cloudflare" alt="Typing SVG" /> <br/>
 
-[![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renators2k/)
-[![contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/renatosilvars/)
-
-
-![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renators2&show_icons=true&theme=midnight-purple)
-<br/>
-
-Tecnologias que eu utilizo:
-<div style="display: inline_block"><br/>
-  <img align ="center" alt"python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align ="center" alt"" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align ="center" alt"" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://www.linkedin.com/in/renatosilvars/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/renators2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 </div>
-<br/>
-<br/>
