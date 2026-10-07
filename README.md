@@ -3,3 +3,52 @@
 <a href="https://www.linkedin.com/in/renatosilvars/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/renators2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 </div>
+👋 Sobre mim
+
+Sou Desenvolvedor de Produto em Engenharia de IA Aplicada e Full Stack. Meu trabalho é pegar uma ideia e transformá-la em algo que funciona de verdade: protótipo → MVP → produção.
+
+🧪 Prototipo e valido produtos com IA rapidamente
+🛠️ Construo MVPs ponta a ponta: front, back, banco e integração com LLMs
+🚀 Coloco no ar com infraestrutura própria, do servidor ao domínio
+🤖 Foco em agentes de IA, RAG e automação inteligente
+🔁 Como eu entrego
+feedback
+💡 Ideia
+🧪 Protótipo
+✅ Validação
+📦 MVP
+🚀 Produção
+🌐 Do código ao domínio
+GitHub
+VPS
+Portainer + Docker
+Nginx
+Cloudflare
+🌍 Domínio
+🧠 Stack
+
+IA aplicada
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" />
+
+Full Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,java,mysql,postgres&perline=9" />
+
+Infra & Deploy
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,github,githubactions&perline=6" /> <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" height="48" />
+
+Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode,git&perline=2" />
+🔭 Agora estou trabalhando em
+🤖 Plataforma de agentes de IA rodando em servidor próprio
+🩺 Produto com LLM para apoio a profissionais de saúde
+📚 Aprofundando em engenharia de IA aplicada
+📌 Projetos em destaque
+Projeto	O que faz	Stack
+nome-do-projeto	Descreva em uma linha	Python · Docker
+nome-do-projeto	Descreva em uma linha	React · FastAPI
+nome-do-projeto	Descreva em uma linha	LLM · Qdrant
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=110&section=footer" />
